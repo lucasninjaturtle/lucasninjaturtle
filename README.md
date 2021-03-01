@@ -7,3 +7,10 @@
 - 🌱 I’m currently learning ... React Native, MongoDB.
 
 - 📫 How to reach me: ... https://www.linkedin.com/in/laguero/
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasninjaturtle&layout=compact)](https://github.com/lucasninjaturtle/github-readme-stats)
+
