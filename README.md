@@ -22,4 +22,4 @@ GIT - SCRUM - Jira - Trello
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasninjaturtle&layout=compact)](https://github.com/lucasninjaturtle/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasninjaturtle&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasninjaturtle&show_icons=true&theme=radical&count_private=true&border_radius=30)
