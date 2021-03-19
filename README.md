@@ -17,7 +17,7 @@ HTML5 - CSS3 - JavaScript (ES6) - React - React-Native - Redux - BootStrap - SAS
 Node.js - Express.js - Sequelize ORM - PostgreSQL - Firebase - MongoDB - GraphQL - Passport
 
 ### Other Skills💪🏼
-GIT - SCRUM - Jira - Trello
+GIT - SCRUM - Jira - Trello - SAP ERP EC6 and S/4Hana w/Fiori
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasninjaturtle&layout=default&theme=radical&count_private=true&border_radius=30)](https://github.com/lucasninjaturtle/github-readme-stats)
