@@ -1,12 +1,9 @@
 # Hi there 👋 My name is Lucas, welcome to my github profile!
 
 
-## - My last project in team [PERN Ecommerce &#128296;] => https://byplantas.lucasninjaturtle.vercel.app/ 
-
 - 🌱 I’m currently learning ... React Native, MongoDB.
 
 - 📫 How to reach me: ... https://www.linkedin.com/in/laguero/
-
 
 ## Languages and Tools 🛠️
 
