@@ -5,6 +5,8 @@
 
 - 📫 How to reach me: ... https://www.linkedin.com/in/laguero/
 
+## :boom: onPress = {() => https://lucasninjaturtle.github.io/myPortfolio/ }
+
 ## Languages and Tools 🛠️
 
 ### Front-End🌟
