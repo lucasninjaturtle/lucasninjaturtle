@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: ... https://www.linkedin.com/in/laguero/
 
-## :boom: onPress = {() => https://lucasninjaturtle.github.io/myPortfolio/ }
+## :boom: onPress = {() => https://my-newportfolio.vercel.app/ }
 
 ## Languages and Tools 🛠️
 
