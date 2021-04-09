@@ -1,7 +1,7 @@
 # Hi there 👋 My name is Lucas, welcome to my github profile!
 
 
-- 🌱 I’m currently learning ... React Native, MongoDB.
+- 💻📞 I’m currently developing on React Native CLI.
 
 - 📫 How to reach me: ... https://www.linkedin.com/in/laguero/
 
@@ -9,8 +9,11 @@
 
 ## Languages and Tools 🛠️
 
+### Lenguages 🔱
+JavaScript (ES6) - TypeScript
+
 ### Front-End🌟
-HTML5 - CSS3 - JavaScript (ES6) - React - React-Native - Redux - BootStrap - SASS
+HTML5 - CSS3 - React - React-Native - Redux - BootStrap - SASS
 
 ### Back-End🔩
 Node.js - Express.js - Sequelize ORM - PostgreSQL - Firebase - MongoDB - GraphQL - Passport
