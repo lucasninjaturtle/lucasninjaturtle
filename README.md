@@ -13,10 +13,10 @@
 JavaScript (ES6) - TypeScript
 
 ### Front-End🌟
-HTML5 - CSS3 - React - React-Native - Redux - BootStrap - SASS
+HTML5 - CSS3 - React - React-Native - Redux - BootStrap - SASS - Styled components
 
 ### Back-End🔩
-Node.js - Express.js - Sequelize ORM - PostgreSQL - Firebase - MongoDB - GraphQL - Passport
+Node.js - Express.js - Sequelize ORM - PostgreSQL - Firebase - MongoDB - GraphQL
 
 ### Other Skills💪🏼
 GIT - SCRUM - Jira - Trello - SAP ERP EC6 and S/4Hana w/Fiori
